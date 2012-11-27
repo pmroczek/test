@@ -9,11 +9,10 @@ int main() {
     scanf("%i", &n[i]);
   }
   printf("========================\n");
+  /* To bylem ja - piotlr */
   for(i=i-1; i>0; i--) {
     printf("%i \n", n[i]);
   }
-
-
 
   return 0;
 }
