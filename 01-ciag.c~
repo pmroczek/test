@@ -2,7 +2,7 @@
 /*herpe test*/
 int main() {
   int n[1000], i=0;
-  //komentarz1
+  
   while(n[i] != -1) {
     i++;
     printf("Podaj %i liczbe: ", i);
