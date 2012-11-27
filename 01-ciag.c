@@ -14,5 +14,7 @@ int main() {
     printf("%i \n", n[i]);
   }
 
+
+  /*  dopisał mroczek :D  */ 
   return 0;
 }
